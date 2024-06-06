@@ -1,0 +1,45 @@
+.navbar-brand {
+    color: #040404;
+    font-weight: 600;
+    margin-right: 20px;
+
+}
+
+.navbar-brand:hover {
+    color: #101010;
+}
+
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars {
+    color: #000000;
+}
+
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars {
+    color: #070707;
+}
+
+.navbar-scrolled {
+    background-color: #ffede7;
+}
+
+ul li a {
+    color: #000;
+    font-weight: 600;
+}
+
+.nav-item {
+    margin-right: 20px;
+
+}
+
+.nav-item .row .col {
+    padding-top: 10px;
+    margin-left: -10px;
+
+
+}
+
+.navbar-nav .nav-item {
+    margin-left: -10px;
+}

@@ -1,0 +1,79 @@
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.left-content {
+    flex-grow: 1;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+h6 {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+button.schedule-call {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.case-study-link {
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+}
+
+.brands-logos {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.right-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.right-top {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.right-top img {
+    width: 150px;
+    margin-right: 10px;
+}
+
+.right-bottom img {
+    width: 200px;
+}
+
+.additional-content {
+    padding: 20px;
+    text-align: center;
+}
+
+.additional-content h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.additional-content h6 {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
